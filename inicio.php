@@ -12,7 +12,7 @@
         <div class="header-logo-icons">
             <img src="images/logo fdf.png" alt="Logo" class="logo">
             <div class="menu-options">
-                <div class="dropdown">
+            <div class="dropdown">
                     <a href="#">Menú</a>
                     <div class="dropdown-content">
                         <a href="desayunos.php">Desayunos</a>
@@ -21,7 +21,13 @@
                         <a href="postres.php">Postres</a>
                     </div>
                 </div>
-                <a href="nosotros.php">Nosotros</a>
+                <div class="dropdown">
+                    <a href="nosotros.php">Nosotros</a>
+                        <div class="dropdown-content">
+                            <a href="desayunos.php">Quiénes somos</a>
+                            <a href="comidaycena.php">Galería</a>
+                        </div>
+                    </div>
                 <a href="sucursales.php">Sucursales</a> 
                 <a href="contactanos.php">Contáctanos</a>
             </div>
