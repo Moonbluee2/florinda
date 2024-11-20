@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Encabezado y Footer - La Fonda de Doña Florinda</title>
+    <title>Contactanos - La Fonda de Doña Florinda</title>
     <link rel="stylesheet" href="inicio.css"> 
 </head>
 <body>
@@ -33,10 +33,9 @@
             </div>
 
             <div class="icon-container">
-            <a href="registro.php">
-        <img src="images/usuario.png" alt="Icono de cuenta" class="icon-left">
-    </a> 
-               
+                <a href="registro.php">
+                    <img src="images/usuario.png" alt="Icono de cuenta" class="icon-left">
+                </a>    
             </div>
         </div>
     </div>
