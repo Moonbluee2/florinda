@@ -40,14 +40,12 @@
             </div>
         </div>
 
-        <!-- Sección Nosotros -->
+            <!-- Sección Nosotros -->
         <div class="content">
-            <section class="nosotros">
-                <!-- Título de la sección -->
+            <section style="text-align: center; margin: 20px auto; padding: 20px; background-color: #ffe6cc; border-radius: 10px;">
                 <div class="section-title">
                     <h2>Sobre Nosotros</h2>
                 </div>
-                <!-- Contenido descriptivo -->
                 <div class="section-text">
                     <p>
                         Bienvenidos a <strong>La Fonda de Doña Florinda</strong>, un rincón donde la tradición mexicana cobra vida en cada platillo. Fundada con el propósito de llevar a tu mesa los sabores más auténticos de nuestra cultura, hemos trabajado arduamente para ofrecer una experiencia única, llena de calidez y sabor.
